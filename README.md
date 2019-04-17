@@ -1,0 +1,2 @@
+# WolfTeamBot
+Bot serwera WolfPlay
